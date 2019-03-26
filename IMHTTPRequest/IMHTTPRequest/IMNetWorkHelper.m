@@ -11,7 +11,6 @@
 #import <AFNetworking/AFNetworkActivityIndicatorManager.h>
 #import <AFNetworking/AFNetworkReachabilityManager.h>
 #import "OpenUDID.h"
-#import <YYCache.h>
 
 
 #define kAcceptableContentTypes [NSSet setWithObjects:@"application/json", @"text/json", @"text/javascript", @"text/html", @"text/plain", nil]
