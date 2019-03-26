@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "IMHTTPRequest"
-  s.version      = "4"
+  s.version      = "5"
   s.summary      = "IMHTTPRequest."
 
   # This description is used to generate tags and improve search results.
@@ -118,7 +118,7 @@ Pod::Spec.new do |s|
   #
 
   # s.framework  = "SomeFramework"
-  s.frameworks = "UIKit", "Foundation",
+  s.frameworks = "UIKit", "Foundation","WebP"
 
   # s.library   = "iconv"
   # s.libraries = "iconv", "xml2"
